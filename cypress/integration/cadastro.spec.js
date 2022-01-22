@@ -46,24 +46,19 @@ describe('Cadastro', () => {
             { field: 'numeroEndereco', output: 'É necessário informar o número do endereço' },
             { field: 'entrega', output: 'Selecione o método de entrega' },
             { field: 'cnh', output: 'Adicione uma foto da sua CNH' }
-
         ]
 
         before(function() {
             signup.go()
             signup.submit()
-
         })
 
         messages.forEach(function (msg) {
             it(`${msg.field} é obrigatório`, function () {
                 signup.alertMessageShouldBe(msg.output)
             })
-
         })
-
     })
-
 })
 
 
