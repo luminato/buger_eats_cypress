@@ -1,0 +1,51 @@
+{
+    "singnup": {
+        "name":"Fabricio Luminato",
+        "cpf":"00000014141",
+        "email":"fabricio@qa.com",
+        "whatsapp":"81999990000",
+        "address": {
+            "postalcode":"54330520",
+            "street":"Rua Serrita",
+            "number":"710",
+            "details":"casa",
+            "district":"Cajueiro Seco",
+            "city_state":"Jaboatão dos Guararapes/PE"
+        },
+        "delivery_method":"Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name":"Fabricio Luminato",
+        "cpf":"x000001AA41",
+        "email":"fabricio@qa.com",
+        "whatsapp":"81999990000",
+        "address": {
+            "postalcode":"54330520",
+            "street":"Rua Serrita",
+            "number":"710",
+            "details":"casa",
+            "district":"Cajueiro Seco",
+            "city_state":"Jaboatão dos Guararapes/PE"
+        },
+        "delivery_method":"Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "Email_inv": {
+        "name":"Fabricio Luminato",
+        "cpf":"00000014141",
+        "email":"fabricio.com",
+        "whatsapp":"81999990000",
+        "address": {
+            "postalcode":"54330520",
+            "street":"Rua Serrita",
+            "number":"710",
+            "details":"casa",
+            "district":"Cajueiro Seco",
+            "city_state":"Jaboatão dos Guararapes/PE"
+        },
+        "delivery_method":"Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+
+}
